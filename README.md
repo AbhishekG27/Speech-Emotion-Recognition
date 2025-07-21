@@ -56,8 +56,8 @@ speech-emotion-recognition/
 
 1. **Clone the repository:**
    ```bash
-git clone https://github.com/AbhishekG27/Speech-Emotion-Recognition.git  
-cd speech-emotion-recognition
+   git clone https://github.com/AbhishekG27/Speech-Emotion-Recognition.git
+   cd speech-emotion-recognition
    ```
 
 2. **Install dependencies:**
@@ -149,7 +149,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 **Feel free to explore, use, and contribute to this project! If you find it useful, please star the repository ⭐**
 
 ## 📞 Contact
-2022abhishek.g@vidyashilp.edu.in 
+
 For questions or suggestions, please open an issue or contact the maintainers.
 
 Happy coding! 🎵😊
