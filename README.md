@@ -56,8 +56,8 @@ speech-emotion-recognition/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/speech-emotion-recognition.git
-   cd speech-emotion-recognition
+git clone https://github.com/AbhishekG27/Speech-Emotion-Recognition.git  
+cd speech-emotion-recognition
    ```
 
 2. **Install dependencies:**
